@@ -26,7 +26,7 @@ const Footer = () => {
               {/* Logo Circle */}
              
                 <img 
-                  src="\public\images\logo.png" // <-- Replace with your logo path
+                  src="/images/logo.png" // <-- Replace with your logo path
                   alt="Temple Logo"
                   className="w-12 h-12 object-contain"
                 />
