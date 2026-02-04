@@ -111,7 +111,7 @@ const Home = () => {
             transition={{ duration: 1 }}
           >
             <motion.h1
-              className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 bg-gradient-to-r from-amber-200 via-orange-300 to-amber-200 bg-clip-text text-transparent"
+              className="text-9xl md:text-7xl lg:text-8xl font-bold mb-6 bg-gradient-to-r from-amber-200 via-orange-300 to-amber-200 bg-clip-text text-transparent"
               style={{ fontFamily: 'Noto Sans Tamil, serif' }}
               animate={{ scale: [1, 1.02, 1] }}
               transition={{ duration: 3, repeat: Infinity }}
